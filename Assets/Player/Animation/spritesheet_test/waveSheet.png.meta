@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: b9f658ec54244dc20845cf3b9936454b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1838615757389573925
+    second: waveSheet_0
+  - first:
+      213: 212147148263019783
+    second: waveSheet_1
+  - first:
+      213: 6241051916269040191
+    second: waveSheet_2
+  - first:
+      213: 6251960956518579974
+    second: waveSheet_3
+  - first:
+      213: 9138670078549293401
+    second: waveSheet_4
+  - first:
+      213: -497812054725458205
+    second: waveSheet_5
+  - first:
+      213: -2245967976332615347
+    second: waveSheet_6
+  - first:
+      213: -446035480420394851
+    second: waveSheet_7
+  - first:
+      213: 3757285642660537498
+    second: waveSheet_8
+  - first:
+      213: -5340386280589431398
+    second: waveSheet_9
+  - first:
+      213: 3010251914994169266
+    second: waveSheet_10
+  - first:
+      213: 4453587192764246671
+    second: waveSheet_11
+  - first:
+      213: -5331669392759534681
+    second: waveSheet_12
+  - first:
+      213: 7014941411263190853
+    second: waveSheet_13
+  - first:
+      213: 8643878634032713561
+    second: waveSheet_14
+  - first:
+      213: -4835851268903239108
+    second: waveSheet_15
+  - first:
+      213: 6676484364911908142
+    second: waveSheet_16
+  - first:
+      213: -8893132775399844526
+    second: waveSheet_17
+  - first:
+      213: -1819617562526929893
+    second: waveSheet_18
+  - first:
+      213: 8057724443088370389
+    second: waveSheet_19
+  - first:
+      213: 7857370505852241660
+    second: waveSheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waveSheet_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5975
+        width: 531
+        height: 781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0db56c5bceb76e0800000000000000
+      internalID: -1838615757389573925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_1
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5935
+        width: 556
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705545415b2b1f200800000000000000
+      internalID: 212147148263019783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 5926
+        width: 578
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32bcfdb6abac9650800000000000000
+      internalID: 6241051916269040191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 5919
+        width: 598
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb6ea9d5d63c650800000000000000
+      internalID: 6251960956518579974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 4776
+        width: 621
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959fb67840413de70800000000000000
+      internalID: 9138670078549293401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_5
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 4769
+        width: 643
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68e21e29a6719f0800000000000000
+      internalID: -497812054725458205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 4759
+        width: 667
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41aac17608b4d0e0800000000000000
+      internalID: -2245967976332615347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 4749
+        width: 688
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985250081d5fc9f0800000000000000
+      internalID: -446035480420394851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3603
+        width: 655
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e472926f842430800000000000000
+      internalID: 3757285642660537498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_9
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3593
+        width: 621
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de81ee8f223e5b0800000000000000
+      internalID: -5340386280589431398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 3583
+        width: 588
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5baadea2096c920800000000000000
+      internalID: 3010251914994169266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 3573
+        width: 558
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a21f8a4f15ecd30800000000000000
+      internalID: 4453587192764246671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2427
+        width: 591
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abceb88fea1206b0800000000000000
+      internalID: -5331669392759534681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2417
+        width: 621
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547158afb041a5160800000000000000
+      internalID: 7014941411263190853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2407
+        width: 658
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fcb1702d935f770800000000000000
+      internalID: 8643878634032713561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 2397
+        width: 691
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32866274ea93ecb0800000000000000
+      internalID: -4835851268903239108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1251
+        width: 724
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2516070823a7ac50800000000000000
+      internalID: 6676484364911908142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1241
+        width: 757
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25598edcbde359480800000000000000
+      internalID: -8893132775399844526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1241
+        width: 757
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2586b77b6fb6e0800000000000000
+      internalID: -1819617562526929893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1241
+        width: 758
+        height: 986
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab34870b9c2df60800000000000000
+      internalID: 8057724443088370389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waveSheet_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 307
+        width: 531
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf644fd48dcfa0d60800000000000000
+      internalID: 7857370505852241660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
